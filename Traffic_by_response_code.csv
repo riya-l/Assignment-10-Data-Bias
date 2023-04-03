@@ -1,0 +1,5 @@
+TimeSeries ID,api/request_count.consumed_api.ALIGN_RATE.REDUCE_SUM.resource.type="consumed_api" AND metric.type="serviceruntime.googleapis.com/api/request_count" AND project="i310-project-10" AND resource.labels.service="commentanalyzer.googleapis.com".project_id:i310-project-10.response_code:200,api/request_count.consumed_api.ALIGN_RATE.REDUCE_SUM.resource.type="consumed_api" AND metric.type="serviceruntime.googleapis.com/api/request_count" AND project="i310-project-10" AND resource.labels.service="commentanalyzer.googleapis.com".project_id:i310-project-10.response_code:404
+response_code,200,404
+project_id,i310-project-10,i310-project-10
+Sun Apr 02 2023 21:00:00 GMT-0500 (Central Daylight Time),0.0014814814814814814,0.0012962962962962963
+Mon Apr 03 2023 00:00:00 GMT-0500 (Central Daylight Time),0.018518518518518517,undefined

@@ -1,0 +1,5 @@
+TimeSeries ID,api/request_latencies.consumed_api.ALIGN_SUM.REDUCE_PERCENTILE_50.resource.type="consumed_api" AND metric.type="serviceruntime.googleapis.com/api/request_latencies" AND project="i310-project-10" AND resource.labels.service="commentanalyzer.googleapis.com".method:google.commentanalyzer.v1alpha1.CommentAnalyzerService.AnalyzeComment.project_id:i310-project-10,api/request_latencies.consumed_api.ALIGN_SUM.REDUCE_PERCENTILE_50.resource.type="consumed_api" AND metric.type="serviceruntime.googleapis.com/api/request_latencies" AND project="i310-project-10" AND resource.labels.service="commentanalyzer.googleapis.com".method:google.discovery.Discovery.GetDiscoveryRest.project_id:i310-project-10
+project_id,i310-project-10,i310-project-10
+method,google.commentanalyzer.v1alpha1.CommentAnalyzerService.AnalyzeComment,google.discovery.Discovery.GetDiscoveryRest
+Sun Apr 02 2023 21:00:00 GMT-0500 (Central Daylight Time),0.098304,0.004096
+Mon Apr 03 2023 00:00:00 GMT-0500 (Central Daylight Time),0.09430790243902439,0.010239999999999999
